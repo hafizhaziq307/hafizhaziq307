@@ -24,7 +24,6 @@
 - 🌱 I’m currently learning <a href="https://tauri.studio/en/">Tauri App</a>
 - 🥅 2021 Goals: Create a desktop app using Rust
 - 🐙 Fun fact: I'm a Takodachi
-- 
 <img align="right"  height="150" width="124" src="./takodachi.gif" />
 
 <br><br>
@@ -37,5 +36,7 @@
 ![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
 
 ## **Contact Me**
-<a href="https://wa.me/qr/WTL3VJ2MNAOVD1"></a>
+<a href="https://wa.me/qr/WTL3VJ2MNAOVD1">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
