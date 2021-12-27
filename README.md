@@ -17,6 +17,7 @@
 <br>
 <br>
 ----
+
 <img align="right"  height="150" width="124" src="./takodachi.gif" />
 
 ## **About Me**
