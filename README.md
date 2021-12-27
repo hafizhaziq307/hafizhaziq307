@@ -1,8 +1,6 @@
 
 # **Ohh, hello there!**
 
-----
-
 ## **Language** 💼
 
 <div align="center">
