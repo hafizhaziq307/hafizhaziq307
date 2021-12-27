@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">	
 </div>
 
-<br>
-<br>
+<br><br>
 ----
 
 <img align="right"  height="150" width="124" src="./takodachi.gif" />
@@ -27,8 +26,7 @@
 - 🐙 Fun fact: I'm a Takodachi
 
 
-<br>
-<br>
+<br><br>
 ----
 
 ## **Github Stat** 
@@ -36,8 +34,7 @@
 
 ![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
 
-<br>
-<br>
+<br><br>
 
 ## **Contact Me**
 <a href="https://wa.me/qr/WTL3VJ2MNAOVD1">
