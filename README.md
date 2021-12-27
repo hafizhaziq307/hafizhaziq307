@@ -3,7 +3,7 @@
 
 ----
 
-### **Language** 💼
+## **Language** 💼
 
 <div align="center">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -42,7 +42,6 @@
 ## **Contact Me**
 <a href="https://wa.me/qr/WTL3VJ2MNAOVD1">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-
 </a>
 
 <a href="#">
