@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-78716C?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   	
 </div>
 
 <br><br>
@@ -35,8 +37,15 @@
 
 ![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
 
+<br><br>
+
 ## **Contact Me**
 <a href="https://wa.me/qr/WTL3VJ2MNAOVD1">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
