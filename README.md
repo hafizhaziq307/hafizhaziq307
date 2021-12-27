@@ -18,7 +18,9 @@
 <br>
 ----
 <img align="right"  height="150" width="124" src="./takodachi.gif" />
+
 ## **About Me**
+
 - 🌱 I’m currently learning <a href="https://tauri.studio/en/">Tauri App</a>
 - 🥅 2021 Goals: Create a desktop app using Rust
 - 🐙 Fun fact: I'm a Takodachi
