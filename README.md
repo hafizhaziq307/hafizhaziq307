@@ -15,9 +15,7 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhaziq307&layout=compact&theme=midnight-purple)](https://github.com/hafizhaziq307/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhaziq307&layout=compact&theme=midnight_purple)](https://github.com/hafizhaziq307/github-readme-stats)
-
-![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight_purple&hide=issues,contribs,prs)
+![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs,prs)
     
