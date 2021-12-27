@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="left">
+<div align="right">
 
 ![Hafiz Haziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight_purple&hide=issues,contribs,prs)
 
