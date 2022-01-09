@@ -22,7 +22,7 @@
 ## 🤗 **About Me**
 
 - 🌱 I’m currently learning <a href="https://tauri.studio/en/">Tauri App</a> and <a href="https://svelte.dev/">Svelte</a>
-- 🥅 2022 Goals: Build as many as possible desktop apps
+- 🥅 2022 Goals: Build desktop apps as many as possible 
 - 🐙 Fun fact: I'm a Takodachi
 
 
