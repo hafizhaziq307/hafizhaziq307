@@ -12,12 +12,11 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">	
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
 </div>
 
 <br><br>
 ----
-
-<img align="right"  height="150" width="124" src="./takodachi.gif" />
 
 ## 🤗 **About Me**
 
@@ -37,10 +36,6 @@
 <br><br>
 
 ## 📫 **Contact Me**
-<a href="https://wa.me/qr/WTL3VJ2MNAOVD1">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hafizhaziq.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
