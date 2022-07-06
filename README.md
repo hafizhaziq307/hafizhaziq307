@@ -19,7 +19,7 @@
 
 ## 🤗 **About Me**
 
-- 🌱 I’m currently learning <a href="https://tauri.studio/en/">Tauri App</a> and <a href="https://svelte.dev/">Svelte</a>
+- 🌱 I’m currently learning <a href="https://tauri.studio/en/">Tauri</a> and <a href="https://svelte.dev/">Svelte</a>
 - 🥅 2022 Goals: Build desktop apps as many as possible 
 - 🐙 Upcoming Project: **Dominant color detector using k-means clustering (Desktop App)**
 
