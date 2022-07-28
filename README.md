@@ -2,7 +2,7 @@
 # **Hello there!** 👋
 
 ## 🤗 **About Me**
-- 🌱 I’m currently learning <a href="https://tauri.studio/en/">Tauri</a> and <a href="https://svelte.dev/">Svelte</a>
+- 🌱 I’m currently <a href="https://tauri.studio/en/">Tauri</a>, <a href="https://svelte.dev/">Svelte</a> and <a href="https://www.typescriptlang.org/">Typescript</a>
 - 🥅 2022 Goals: Build desktop apps as many as possible 
 
 <br>
