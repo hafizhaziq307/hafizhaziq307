@@ -2,7 +2,7 @@
 # **Hello there!** 👋
 
 ## 🤗 **About Me**
-- 🌱 I’m currently <a href="https://tauri.studio/en/">Tauri</a>, <a href="https://reactjs.org/">React</a> and <a href="https://www.typescriptlang.org/">Typescript</a>
+- 🌱 I’m currently  <a href="https://nextjs.org/">Next JS</a>
 - 🥅 2023 Goals: Build mobile apps using capacitorJS/ionic
 
 <br>
