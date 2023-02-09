@@ -2,7 +2,6 @@
 # **Hello there!** 👋
 
 ## 🤗 **About Me**
-- 🌱 I’m currently learn <a href="https://nextjs.org/">Next JS</a>
 - 🥅 2023 Goals: Build mobile apps using capacitorJS/ionic
 
 <br>
