@@ -1,7 +1,7 @@
 
 
 **About Me**
-- 💼 Programmer at [JCoders Sdn. Bhd.](https://jcoders.com.my/)
+- 💼 Programmer at [Jcoders Sdn. Bhd.](https://jcoders.com.my/)
 - ❤️ I love programing & explore a new things.
 - 🧠 Graduted from [Universiti Malaysia Terengganu (UMT)](https://www.umt.edu.my/) 
 
