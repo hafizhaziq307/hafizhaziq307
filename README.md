@@ -1,10 +1,8 @@
+## Desktop
+* [music-player](https://github.com/hafizhaziq307/web-launch) <kbd>react</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- only play a music, nothing else 
+* [toolkit](https://github.com/hafizhaziq307/toolkit) <kbd>react</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- my own tools to make my life easier
+* [web-launch](https://github.com/hafizhaziq307/web-launch) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- quick start web projects
+* [blueprint](https://github.com/hafizhaziq307/blueprint) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- laravel CRUD generator 
 
-
-**About Me**
-- 💼 Programmer at [Jcoders Sdn. Bhd.](https://jcoders.com.my/)
-- ❤️ I love programing & explore a new things.
-- 🧠 Graduted from [Universiti Malaysia Terengganu (UMT)](https://www.umt.edu.my/) 
-
-| <a href="https://github.com/hafizhaziq307"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizhaziq307&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" alt="hafizhaziq's github stats" /></a> | <a href="https://github.com/hafizhaziq307"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizhaziq307&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+## Web
+* [hafizhaziq.dev](https://hafizhaziq.com/) <kbd>laravel</kbd> <kbd>tailwind</kbd> -- my portfolio
