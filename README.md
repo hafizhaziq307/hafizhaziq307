@@ -5,4 +5,4 @@
 * [blueprint](https://github.com/hafizhaziq307/blueprint) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- laravel CRUD generator 
 
 ## Web
-* [hafizhaziq.dev](https://hafizhaziq.com/) <kbd>laravel</kbd> <kbd>tailwind</kbd> -- my portfolio
+* [hafizhaziq.com](https://hafizhaziq.com/) <kbd>laravel</kbd> <kbd>tailwind</kbd> -- my portfolio
