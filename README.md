@@ -9,4 +9,4 @@
 * [hafizhaziq.com](https://hafizhaziq.com/) <kbd>laravel</kbd> <kbd>tailwind</kbd> -- my portfolio
 
 ## Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark&quote=No%20Matter%20How%20Hard%20A%20Bird%20Tries%20To%20Swim,%20It%20Will%20Never%20Impress%20A%20Fish)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark&quote=No%20matter%20how%20hard%20a%20bird%20tries%20to%20swim,%20it%20will%20never%20impress%20a%20fish)](https://github.com/piyushsuthar/github-readme-quotes)
