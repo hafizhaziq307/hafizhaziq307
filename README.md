@@ -1,11 +1,3 @@
-## Goals (2024)
-:star2: Learn machine learning (using <kbd>rust</kbd> or <kbd>python</kbd>)
-<br>
-:star2: Make at least 2 games (using <kbd>Godot</kbd>)
-<br>
-:star2: Learn Dart & Flutter :skull:
-
-
 ## Desktop
 * [music-player](https://github.com/hafizhaziq307/music-player) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- local music player
 * [blueprint](https://github.com/hafizhaziq307/blueprint) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- Laravel/AdminLTE CRUD generator 
