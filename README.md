@@ -1,7 +1,6 @@
 ## Goal 2025
 * Learn htmx
 * Learn ionic
-* Learn Blender
 * Add more tool in toolkit project
 
 ## Desktop
