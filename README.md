@@ -27,4 +27,4 @@
 | select              | select2 js          |
 | tooltip             | tippy js            |
 | slider              | swiper js           |
-| date range picker   | daterangepicker js  |
+| date range picker   | daterangepicker js / flatpickr js  |
