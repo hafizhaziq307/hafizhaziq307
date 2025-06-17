@@ -24,7 +24,7 @@
 | tables              | datatables js       |
 | pop up confirmation | sweetAlert 2 js     |
 | chart               | chart js            |
-| select              | select2 js / choices js  |
+| select              | choices js          |
 | tooltip             | tippy js            |
 | slider              | swiper js           |
-| date range picker   | daterangepicker js / flatpickr js  |
+| date range picker   | flatpickr js        |
