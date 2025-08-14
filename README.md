@@ -17,9 +17,9 @@
 | pdf                 | dompdf / tcpdf      |
 | word                | phpword             | 
 | backend             | php, laravel        |
-| style               | bootstrap, tailwind |
+| style               | bootstrap / tailwind |
 | input mask          | maska js            |
-| wysiwyg             | quill js            |
+| wysiwyg             | quill js / tiptap js |
 | date formatting     | luxon js            |
 | tables              | datatables js       |
 | pop up confirmation | sweetAlert 2 js     |
