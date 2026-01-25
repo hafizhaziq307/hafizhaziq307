@@ -1,8 +1,3 @@
-## Goal 2025
-* Learn htmx
-* Learn ionic
-* Add more tool in toolkit project
-
 ## Desktop
 * [music-player](https://github.com/hafizhaziq307/music-player) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- local music player
 * [blueprint](https://github.com/hafizhaziq307/blueprint) <kbd>svelte</kbd> <kbd>tailwind</kbd> <kbd>tauri</kbd> -- Laravel/AdminLTE CRUD generator 
