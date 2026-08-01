@@ -19,5 +19,5 @@
 | chart               | chart js            |
 | select              | choices js          |
 | tooltip             | tippy js            |
-| slider              | swiper js           |
+| slider              | floating ui         |
 | date range picker   | flatpickr js        |
